@@ -49,6 +49,7 @@
 /extensions/base64                                   @DanielSinclair @sammarks
 /extensions/battery-health                           @o1y
 /extensions/bazinga-tools                            @luin
+/extensions/beancount-mate                           @iwfan
 /extensions/bear                                     @hmarr @lucaschultz @diokhan @ron-myers
 /extensions/beat-per-minute                          @pernielsentikaer
 /extensions/beeminder                                @vivgui
@@ -198,6 +199,7 @@
 /extensions/docker                                   @priithaamer @gebeto
 /extensions/dockerhub                                @k8scat @tonka3000
 /extensions/docsearch                                @Fatpandac @AnishDe12020 @pomdtr
+/extensions/dollar-blue                              @agusluques
 /extensions/domainr                                  @Rawnly
 /extensions/doppler-share-secrets                    @thomaspaulmann
 /extensions/dot-new                                  @natterstefan
@@ -380,6 +382,7 @@
 /extensions/json-to-go                               @chyroc
 /extensions/json2ts                                  @gon250
 /extensions/jump                                     @SKaplanOfficial
+/extensions/jupiter-aggregator                       @stevedsimkins
 /extensions/just-focus                               @koinzhang
 /extensions/justwatch-search                         @RishabSwift
 /extensions/jwt-decoder                              @gdsmith
